@@ -1,0 +1,9 @@
+{
+  "name": "three",
+  "description": "JavaScript 3D library",
+  "homepage": "https://github.com/logankoester/meteor-three",
+  "author": "three.js authors (https://github.com/mrdoob/three.js/graphs/contributors)",
+  "version": "0.57.0",
+  "git": "https://github.com/logankoester/meteor-three.git",
+  "packages": {}
+}
