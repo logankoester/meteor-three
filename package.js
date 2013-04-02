@@ -3,7 +3,5 @@ Package.describe({
 });
 
 Package.on_use(function (api) {
-  api.use("jquery", "client");
   api.add_files("lib/three/build/three.js", "client");
-  api.use("three", "client");
 });
